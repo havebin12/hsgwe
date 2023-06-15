@@ -62,6 +62,10 @@
   .footer_wrap {width:100%;}
   .footer_menu ul li {width:20%;}
   .footer_bottom p {height:100%;}
+  
+  /* sub page */
+  .content_wrap {width:90%; height:30rem;}
+  .content_wrap p {padding-top:15.4rem; font-size:2.4rem;}
 }
 
 @media screen and (max-width:1023px) {
